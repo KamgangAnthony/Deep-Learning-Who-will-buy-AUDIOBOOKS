@@ -12,7 +12,7 @@ Predict if a customer will buy again or not
 
 ![alt text](img_1.png "Demand per year")
 
-* We can forecast which clients will come back with a 81 % level of accuracy.
+* We can forecast which clients will come back with 81 % level of accuracy.
 
 * This methodology can pinpoint the key performance indicators for repeat business from customers. Finding new clients generates value and business expansion possibilities.
 
